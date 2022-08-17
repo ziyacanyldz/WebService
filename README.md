@@ -6,4 +6,11 @@ Veri tabanında Kullanıcılar ve Personeller tabloları ve bu tablolar için ek
 
 # Projenin Çalıştırılması
 
-[TSQL1.txt](https://github.com/ziyacanyldz/WebService-Webform/files/9365010/TSQL1.txt) Bu dosyadaki tsql kodlarını kendi sql serverinizde 
+[TSQL1.txt](https://github.com/ziyacanyldz/WebService-Webform/files/9365010/TSQL1.txt) Bu dosyadaki tsql kodlarını kendi sql serverinizde execute ediniz. Bu dosyada sisteme girerken kullanmanız için kullanıcı adı ve şifre oluşturdum. 
+Daha sonrasında yeni kullanıcı ekleyebilirsiniz.
+Kullanıcı adı: admin 
+Şifre: 123456
+
+![image](https://user-images.githubusercontent.com/96024765/185208284-2545b083-8fe6-4bed-ae89-9fa876265f4a.png)
+
+Proje4WebService içerisindeki config dosyasına kendi veri tabanı yolunuzu giriniz.
